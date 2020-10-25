@@ -1,9 +1,9 @@
+import other.Util;
 
 public class Main {
 
 	public static void main(String[] args) {		
-		Util u = new Util();	
-		
+		Util u = new Util();		
 		
 		double valor1 = u.LerDouble("Digite o primeiro número: ");
 		double valor2 = u.LerDouble("Digite o segundo número: ");
